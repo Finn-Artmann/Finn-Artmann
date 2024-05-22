@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am a computer science student in Germany. On this account I showcase some of the projects I made or contributed to.
+
+- 🔭 I’m currently working on my Masters Degree.
+- 🌱 I’m currently learning AWS and Virtualization; Godot
+
+Some additional projects I contributed to are:
+- ![oneshot-web](https://github.com/ptrLx/oneshot-web) : A self-hostable app to remind you of the special moments! (I mainly worked on the frontend using ionic vue)
+- ![ktane-irl](https://github.com/ktane-irl/ktane-irl) : A modular in-hardware implementation of the famous puzzle video game KTANE (Firmware/Module implementations; schematics)
+
 <!--
 **Finn-Artmann/Finn-Artmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
