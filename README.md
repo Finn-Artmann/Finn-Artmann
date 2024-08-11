@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B,I%27m+Finn.....;Nice+to+see+you....!&size=25)](https://git.io/typing-svg)
 
 I am a computer science student in Germany. On this account I showcase some of the projects I made or contributed to.
 
